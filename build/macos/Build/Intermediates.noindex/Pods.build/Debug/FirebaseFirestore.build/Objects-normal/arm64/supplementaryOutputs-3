@@ -1,0 +1,18 @@
+"/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+WriteEncodable.swift":
+  const-values: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.swiftconstvalues"
+  object: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.o"
+  dependencies: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.d"
+  swift-dependencies: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.swiftdeps"
+  diagnostics: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+WriteEncodable.dia"
+"/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+ReadDecodable.swift":
+  const-values: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.swiftconstvalues"
+  object: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.o"
+  dependencies: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.d"
+  swift-dependencies: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.swiftdeps"
+  diagnostics: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+ReadDecodable.dia"
+"/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentSnapshot+ReadDecodable.swift":
+  object: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.o"
+  dependencies: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.d"
+  swift-dependencies: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.swiftdeps"
+  diagnostics: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.dia"
+  const-values: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/DocumentSnapshot+ReadDecodable.swiftconstvalues"

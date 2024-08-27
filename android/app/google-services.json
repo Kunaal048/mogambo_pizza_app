@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214548892732",
+    "project_id": "mogambopizzadelivery",
+    "storage_bucket": "mogambopizzadelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214548892732:android:38ade0b80736d2b7ea8739",
+        "android_client_info": {
+          "package_name": "com.Mogambo.pizzaDelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXv7Fi3cws61XFZQyxpN3zwrDqlszvc38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

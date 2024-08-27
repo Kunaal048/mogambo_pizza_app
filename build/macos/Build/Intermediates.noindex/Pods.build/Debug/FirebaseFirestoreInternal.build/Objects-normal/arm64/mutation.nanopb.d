@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/firestore/local/mutation.nanopb.cc \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/firestore/local/mutation.nanopb.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/nanopb/pb.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/firestore/v1/write.nanopb.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/firestore/v1/bloom_filter.nanopb.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/firestore/v1/common.nanopb.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/protobuf/timestamp.nanopb.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/firestore/v1/document.nanopb.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/protobuf/struct.nanopb.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/type/latlng.nanopb.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/nanopb/pretty_printing.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/str_cat.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/nullability.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/nullability_impl.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/has_absl_stringify.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/internal/resize_uninitialized.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/internal/stringify_sink.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/numbers.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/endian.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/casts.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/unaligned_access.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/bits.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/internal/bits.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/int128.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/numeric/int128_have_intrinsic.inc

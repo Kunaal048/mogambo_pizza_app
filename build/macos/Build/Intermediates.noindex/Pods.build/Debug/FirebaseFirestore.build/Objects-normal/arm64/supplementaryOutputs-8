@@ -1,0 +1,18 @@
+"/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Transaction+WriteEncodable.swift":
+  swift-dependencies: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.swiftdeps"
+  object: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.o"
+  const-values: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.swiftconstvalues"
+  dependencies: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.d"
+  diagnostics: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Transaction+WriteEncodable.dia"
+"/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/WriteBatch+WriteEncodable.swift":
+  const-values: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.swiftconstvalues"
+  dependencies: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.d"
+  swift-dependencies: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.swiftdeps"
+  diagnostics: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.dia"
+  object: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/WriteBatch+WriteEncodable.o"
+"/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampEncodingStrategy.swift":
+  object: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.o"
+  diagnostics: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.dia"
+  swift-dependencies: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.swiftdeps"
+  const-values: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.swiftconstvalues"
+  dependencies: "/Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampEncodingStrategy.d"

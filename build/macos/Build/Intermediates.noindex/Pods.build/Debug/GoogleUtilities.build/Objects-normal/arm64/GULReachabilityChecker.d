@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/GoogleUtilities.build/module.modulemap \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/GoogleUtilities/GoogleUtilities/Reachability/GULReachabilityChecker.m \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/GoogleUtilities/GoogleUtilities/Reachability/Public/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/GoogleUtilities/GoogleUtilities/Reachability/GULReachabilityChecker+Internal.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/GoogleUtilities/GoogleUtilities/Reachability/GULReachabilityMessageCode.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h \
+  /Users/kunaal/Documents/Codes/Flutter/Pizza/pizza_app/macos/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h
